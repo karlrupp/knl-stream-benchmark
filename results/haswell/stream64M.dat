@@ -1,0 +1,9 @@
+# Stream Triad Benchmark, 64 Mio double elements
+# Threads   Bandwidth (GB/sec)
+1 19259.7
+2 37390.5
+4 61293.0
+8 76404.4
+12 81312.3
+24 88878.6
+48 92944.5
